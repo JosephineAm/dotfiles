@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = josephine.amigues@gmail.com
+	name = Josephine Amigues
